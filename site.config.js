@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Bobo's Crypto Notes',
+  name: 'Bobo\'s Crypto Notes',
   domain: 'crypto.bobochen.com',
   author: 'Bobo Chen',
 
