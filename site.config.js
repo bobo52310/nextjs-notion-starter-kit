@@ -12,8 +12,8 @@ module.exports = {
   author: 'Bobo Chen',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: '加密貨幣、區塊鏈學習路上的隨手雜記',
+  socialImageTitle: 'Bobo Chen',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
